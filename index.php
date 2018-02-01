@@ -25,7 +25,7 @@ Personal Portfolio website
         </header>
         <nav>
             <hr width="50%"/>
-            <a href="index.html"><span class="name"> Home </span></a>
+            <a href="index.php"><span class="name"> Home </span></a>
             <a href="about.html"> About </a>
             <a href="contact.html"> Contact </a>
         </nav>
