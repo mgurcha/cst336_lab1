@@ -3,7 +3,6 @@
 <!--
 
 Personal Portfolio website
-(comments can span multiple lines)
 
 -->
 
@@ -25,11 +24,17 @@ Personal Portfolio website
         </header>
         <nav>
             <hr width="50%"/>
+<<<<<<< HEAD
+            <a href="index.php"><span class="name">Home</span></a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+=======
             <a href="index.php"><span class="name"> Home </span></a>
             <a href="about.html"> About </a>
             <a href="contact.html"> Contact </a>
+>>>>>>> 6a0ac0d2bbc4cc1816b2ba9cac0766ac4aa120b4
         </nav>
-        
+
         <main>
             <figure id="me">
                 <img src = "img/my_img.jpg"/>
@@ -38,43 +43,42 @@ Personal Portfolio website
                 <br /><br />
                 Hello!<br />
                 <p>
-                   Thank you for visiting my professional portfolio website. 
+                   Thank you for visiting my professional portfolio website.
                 </p>
-            
+
                 <p>
-                   I am currently a junior at CSU Monterey Bay majoring in computer science. 
-                   I transferred here from Sierra College after earning my Associates of Science 
-                   degree in computer science. 
+                   I am currently a junior at CSU Monterey Bay majoring in computer science.
+                   I transferred here from Sierra College after earning my Associates of Science
+                   degree in computer science.
                 </p>
-                    
+
                 <p>
-                   I'm looking for a internship opportunity. Feel free to contact me regarding any questions or concerns. 
+                   I'm looking for a internship opportunity. Feel free to contact me regarding any questions or concerns.
                 </p>
                 <p>
-                   Thank you! 
+                   Thank you!
                 </p>
-                
+
                 <br /><br />
                 <em>
-                    "With ordinary talent and extraordinary <strong>perserverance</strong>, all things are attainable"
+                    "Good, better, best. Never let it rest. 'Til your good is better and your better is <strong>best</strong>."
                 </em><br />
-                - Thomas F. Buxton
+                - St. Jerome
             </div>
         </main>
-        
-        
+
+
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
         <footer>
             <hr>
-            CST336. 2018 &copy; Gurcha <br />
+            CST336 Internet Programming. 2018 &copy; Gurcha <br />
             <figure id = "foot">
                  <img src = "img/csumb.jpg"/>
             </figure>
-            <!--<strong>Disclaimer:</strong> The information in this webpage is true.<br />-->
         </footer>
         <!-- closing footer -->
-        
+
     </body>
     <!-- closing body -->
 

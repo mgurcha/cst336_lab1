@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: #0a3c65;
     color: white;
 }
 
@@ -21,11 +21,6 @@ nav a:hover{
     transition: .9s;
 }
 
-/*#me, #welcomeText{*/
-/*    float:left;*/
-/*    text-align: left;*/
-/*}*/
-
 #me{
     float: left;
 }
@@ -33,20 +28,17 @@ nav a:hover{
 #foot{
     clear: both;
 }
+
 #welcomeText{
     text-align: left;
-    /*width:350px;*/
+    font-size: 1.3em;
 }
 
 footer{
-    font-size: .8em;
+    font-size: .9em;
     color: white;
     clear: left;
 }
-
-/*#content{*/
-/*    margin-top: 10px;*/
-/*}*/
 
 table{
     margin: 0px auto;
@@ -66,7 +58,7 @@ td strong{
 }
 
 .table-row{
-    background-color: #753900;
+    background-color: #914A0F;
 }
 
 ul{
@@ -79,7 +71,7 @@ ul{
 }
 
 .name{
-    text-decoration: underline orange solid;
+    text-decoration: underline;
 }
 
 iframe{
@@ -92,4 +84,3 @@ h1{
    font-size: 4em;
    margin-bottom: 0px;
 }
-
