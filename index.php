@@ -24,16 +24,12 @@ Personal Portfolio website
         </header>
         <nav>
             <hr width="50%"/>
-<<<<<<< HEAD
             <a href="index.php"><span class="name">Home</span></a>
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
-=======
-            <a href="index.php"><span class="name"> Home </span></a>
-            <a href="about.html"> About </a>
-            <a href="contact.html"> Contact </a>
->>>>>>> 6a0ac0d2bbc4cc1816b2ba9cac0766ac4aa120b4
+            <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
         </nav>
+
 
         <main>
             <figure id="me">
